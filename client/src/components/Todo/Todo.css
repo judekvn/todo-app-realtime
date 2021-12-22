@@ -1,0 +1,48 @@
+.todo-cont {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg-info {
+    background-image: url("../../assets/hand-painted-watercolor-background-with-sky-clouds-shape.jpg");
+    background-size: cover;
+    background-repeat: repeat-y;
+    height: 110vh;
+}
+
+.todo-box {
+    width: 800px;
+}
+
+.jumbo-box {
+    padding: 8px !important;
+    background-color: hsla(0, 0%, 100%, 0.884) !important;
+    border-radius: 4px !important;
+    margin-bottom: 8px !important;
+}
+
+.input-check > span {
+    border: none !important;
+    background-color: white !important;
+}
+
+.errorColor {
+    color: red;
+}
+
+.link-clr {
+    color: rgba(0, 0, 0, 0.842);
+}
+
+.empty-data {
+    display: flex;
+    justify-content: center;
+    color: black;
+}
+
+.logout {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}

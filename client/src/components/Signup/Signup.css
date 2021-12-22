@@ -1,0 +1,18 @@
+.login-cont {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg-info {
+    background-image: url('../../assets/hand-painted-watercolor-background-with-sky-clouds-shape.jpg');;
+}
+
+.jumbo-cont {
+    width: 350px
+}
+
+.errorColor {
+    color: red;
+}
